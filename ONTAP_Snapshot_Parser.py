@@ -2,10 +2,10 @@
 import os
 
 #Static string for directories
-putty_file = r'C:\\Users\\Documents\\Python\\PuTTy_log.txt'
+putty_file = r'C:\\Users\\Documents\\Python\\PuTTY_log.txt'
 output_dir = r'C:\\Users\\Documents\\Python\\parser_output\\'
 
-#Static string to discard from PuTTy log file 
+#Static string to discard from PuTTY log file 
 putty_header = '=~=~=~=~=~=~=~=~=~=~=~='
 separator = '------------------'
 command = 'Cluster1::>'
